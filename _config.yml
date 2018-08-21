@@ -1,4 +1,5 @@
 theme: jekyll-theme-minimal
+locale: es
 plugins:
     - jekyll-feed
     - jekyll-redirect-from
