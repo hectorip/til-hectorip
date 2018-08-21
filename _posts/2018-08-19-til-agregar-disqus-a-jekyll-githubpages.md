@@ -49,6 +49,6 @@ s.setAttribute('data-timestamp', +new Date());
 {% endif %}
 
 ```
-{% raw %}
+{% endraw %}
 
 El código se puede ver en esta mismo repo, en `_layouts/post.html`.
