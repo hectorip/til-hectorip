@@ -31,7 +31,6 @@ layout: default
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
 ```
-
 2. Después de esto se pueden seguir las instrucciones de la documentación de Disqus. Que en pocas palabras es agregar el siguiente código (con tus valores propios) al final del archivo:
 
 ```html
