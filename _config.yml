@@ -1,4 +1,5 @@
-theme: jekyll-theme-minimal
+theme: jekyller/jasper2
+# theme: jekyll-theme-minimal
 locale: es
 plugins:
     - jekyll-feed

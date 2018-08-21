@@ -7,13 +7,13 @@ comments: true
 ---
 
 Una de las primeras tareas para este blog fue agregar comentarios ya que Jekyll viene
-sin ninguna forma de hacerlo naturalmente. Y la forma más fácil es através de [https://disqus.com/profile/login/](Disqus), una plataforma especializada en comentarios.
+sin ninguna forma de hacerlo naturalmente. Y la forma más fácil es através de [Disqus](https://disqus.com/), una plataforma especializada en comentarios.
 
-En la [https://disqus.com/admin/install/platforms/jekyll/](documentación) encontramos como hacerlo con Jekyll puro, pero en el caso de GH Pages hay que seguir un proceso un poco diferente ya que el proyecto no tiene la misma estructura que Jekyll normal.
+En la [documentación](https://disqus.com/admin/install/platforms/jekyll/) encontramos como hacerlo con Jekyll puro, pero en el caso de GH Pages hay que seguir un proceso un poco diferente ya que el proyecto no tiene la misma estructura que Jekyll normal.
 
 Instalación:
 
-1. Crear la carpeta \_layouts y dentro de ella crear el archivo post.html, con la estructura básica para mostrar un post (recomiendo buscar el archivo en el repo de tu tema y coipiarlo). En mi caso era el siguiente:
+1. Crear la carpeta `_layouts` y dentro de ella crear el archivo post.html, con la estructura básica para mostrar un post (recomiendo buscar el archivo en el repo de tu tema y coipiarlo). En mi caso era el siguiente:
 {% raw %}
 ```html
 ---
@@ -49,5 +49,6 @@ s.setAttribute('data-timestamp', +new Date());
 
 ```
 {% endraw %}
+
 
 El código se puede ver en esta mismo repo, en `_layouts/post.html`.
