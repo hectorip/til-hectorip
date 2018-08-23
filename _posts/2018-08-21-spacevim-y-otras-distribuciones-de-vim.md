@@ -6,7 +6,7 @@ tags: vim spacevim editores ide developer-environment
 comments: true
 ---
 
-![SpaceVimw indow]({{"assets/images/spacevim.png" | absolute_url}})
+![SpaceVim window]({{"assets/images/spacevim.png" | absolute_url}})
 
 Siempre me ha gustado la simplicidad y el poder de **vim** para editar archivos de texto, es una de las herramientas que quiero aprender a manejar lo mejor posible, creo que de verdad conociéndolo a fondo puedes mejorar mucho como programador, ya que una de las principales tareas de uno es escribir o editar texto plano (código).
 
