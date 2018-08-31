@@ -6,7 +6,7 @@ tags: deep-learning ai
 comments: true
 ---
 
-<!-- ![Camiones desde el aire]({{"assets/images/trucks.jpg" | absolute_url}}) -->
+![Juego de Go](http://res.cloudinary.com/hectorip/image/upload/c_scale,w_741/v1535693467/til/IMG_0164.jpg)
 
 Fui a la [Escuela de Verano de la RIIAA](https://riiaa.org/escuela-de-verano/) en el cuál se
 enseñaron varias cosas:
