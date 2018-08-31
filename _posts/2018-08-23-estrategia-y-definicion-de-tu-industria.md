@@ -40,6 +40,6 @@ Parecería que a al ser el mismo producto casi y que su producción es muy parec
 
 Con estos pequeños puntos podemos ver que no se trata de la misma industria aunque el producto se parezca mucho. Si estás intentando hacer una empresa o iniciar un negocio, deberías hacerte esta pregunta:
 
-> ¿En qué empresa quiero competir?
+> ¿En qué industria quiero competir?
 
 En fin, estoy aprendiendo bastante de este libro en muy poco espacio. Aunque sea capaz de leer una página cada diez minutos.
