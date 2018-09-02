@@ -10,3 +10,11 @@ plugins:
     - jemoji
     - jekyll-mentions
     - jekyll-include-cache
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      author_profile: true
