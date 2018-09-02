@@ -1,0 +1,5 @@
+main:
+  - title: "Home"
+    url: /
+  - title: "Acerca de"
+    url: /acerca-de
