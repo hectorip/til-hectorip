@@ -17,4 +17,16 @@ defaults:
       path: ""
       type: posts
     values:
+      layout: single
       author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+
+author:
+  name   : "Héctor Patricio"
+  avatar : "/assets/images/me.jpg"
+  bio    : "Developer"
+  uri    : "https://github.com/hectorip"
+  home   : # null (default), "absolute or relative url to link to author home"
