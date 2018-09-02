@@ -1,5 +1,5 @@
-remote_theme: mmistakes/minimal-mistakes
-# theme: jekyll-theme-minimal
+# remote_theme: mmistakes/minimal-mistakes
+theme: jekyll-theme-minimal
 locale: es
 plugins:
     - jekyll-feed
