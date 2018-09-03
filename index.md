@@ -1,9 +1,7 @@
 ---
 title: HectorIP's TIL
-laytout: default
+laytout: single
 ---
-
-# HéctorIP TIL
 
 Bienvenido al Today I Learned de Héctor Patricio.
 
