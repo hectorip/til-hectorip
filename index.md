@@ -1,6 +1,6 @@
 ---
 title: HectorIP's TIL
-laytout: home
+layout: home
 paginate: 15 # amount of posts to show
 paginate_path: /page:num/
 ---
