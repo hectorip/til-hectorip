@@ -25,7 +25,7 @@ para andar repartiendo por todas partes.
 pero lo viven.
 - El propósito central no se inventa o busca, **se descubre**. Es decir, las personas que conforman
 la empresa están ahí por algo (más allá del beneficio económico) y para definir el propósito central
-hay que descubrir que las mueve.
+hay que descubrir qué las mueve.
 - El propósito central no es una meta.
 - No cambia, debe ser válido por lo menos por 100 años (por decir poco) y motivar a la empresa a cambiar
 para lograr hacer eso que buscan.
@@ -42,12 +42,12 @@ Algunas preguntas útiles para encontrar el propósito central son:
 Algunos ejemplos de un propósito central son:
 
 - **Merck**: Extender y mejorar la vida humana.
-- **HP**: Hecer contribuciones técnicas para el avence y bienestar de la humanidad.
+- **HP**: Hecer contribuciones técnicas para el avance y bienestar de la humanidad.
 - **Sony**: Experimentar la alegría de avanzar y aplicar la tecnología para el bien público.
 - **Disney**: Hacer feliz a la gente.
 
 Finalmente quiero recalcar algo que me llamó la atención: **el propósito central no es un distintivo de tu
-empresa**. No tiene por que ser único e irrepetible, muchas empresas y personas pueden tener el mismo
+empresa**. No tiene por qué ser único e irrepetible, muchas empresas y personas pueden tener el mismo
 objetivo en la vida. Pero lo que distingue a las mejores empresas es la **autenticidad, disciplina y
 consitencia con que viven ese propósito**.
 
