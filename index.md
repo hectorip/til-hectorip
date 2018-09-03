@@ -1,8 +1,4 @@
 ---
 title: HectorIP's TIL
-laytout: archive
+laytout: posts
 ---
-
-{% for post in site.pages %}
-  {% include archive-single.html %}
-{% endfor %}
