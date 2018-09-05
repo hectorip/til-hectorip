@@ -1,5 +1,5 @@
 ---
-title: "Dividir un archivo en dos en terminal de Linux y Mac"
+title: "Dividir un archivo en dos en la terminal de Linux y Mac"
 date: 2018-09-03
 author: Héctor Patricio
 tags: bash split trabajo-con-archivos archivos-de-texto
@@ -27,6 +27,4 @@ split -l 5000 datos.csv
 ```
 
 Este comando producirá en el mismo directorio dos archivos nombrados `xaa` y `xab` conteniendo cada uno
-5000 líneas, dejando el archivo original intacto.
-
-Se producirán tantos archivos como divisiones sean posibles.
+5000 líneas, dejando el archivo original intacto. Se producirán tantos archivos como divisiones sean posibles.
