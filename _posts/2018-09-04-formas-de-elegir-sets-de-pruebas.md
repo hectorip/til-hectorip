@@ -1,6 +1,6 @@
 ---
 title: "Formas de elegir los sets de pruebas para modelos de ML"
-date: 2018-09-01
+date: 2018-09-04
 author: Héctor Patricio
 tags: ai machine-learning ml test-set
 comments: true
