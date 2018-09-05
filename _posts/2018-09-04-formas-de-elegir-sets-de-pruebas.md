@@ -1,12 +1,10 @@
 ---
-title: "Formas de elegir los sets de pruebas para ML"
+title: "Consideraciones al elegir un set de pruebas para ML"
 date: 2018-09-04
 author: Héctor Patricio
 tags: ai machine-learning ml test-set
 comments: true
-excerpt: ""
-<!-- header: -->
-  <!-- image: http://res.cloudinary.com/hectorip/image/upload/v1535950811/residual_sixste.png -->
+excerpt: "Cosas que pensar para elegir bien un set de pruebas"
 ---
 
 Para que un modelo de ML se comporte lo mejor posuble, se tiene que verificar su rendimiento
