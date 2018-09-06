@@ -7,7 +7,7 @@ comments: true
 excerpt: "Cosas que pensar para elegir bien un set de pruebas"
 ---
 
-Para que un modelo de ML se comporte lo mejor posuble, se tiene que verificar su rendimiento
+Para que un modelo de ML se comporte lo mejor posible, se tiene que verificar su rendimiento
 contra instancias de pruebas nunca usadas en el entrenamiento.
 
 Para esto:
