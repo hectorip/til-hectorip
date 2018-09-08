@@ -1,6 +1,6 @@
 ---
 title: "Anotación de funciones en Python"
-date: 2018-09-0
+date: 2018-09-07
 author: Héctor Patricio
 tags: python function-annotation
 comments: true
