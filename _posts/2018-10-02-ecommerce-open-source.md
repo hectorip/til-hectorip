@@ -11,7 +11,7 @@ Buscando posbiles opciones para un cliente que quiere un eCommerce bastante pers
 estuvimos buscando opciones de librerías y desarrollos que permitieran hacerlo con más facilidad. Siempre había
 pensado que Spree es una buena opción hasta que vi que murió y luego revivió, por lo que levantó un poco de
 sospechas sobre su estabilidad como proyecto sobre mi equipo. Pero buscando algo sobre **nodejs** (un requisito
-del cliente), encontramos dos interesantes ()
+del cliente), encontramos dos interesantes:
 
 
 1. [QOR](https://github.com/qor/qor). Un porte de un desarrollo en Ruby on Rails a Go, bibliotecas para eCommerce y CMS.
