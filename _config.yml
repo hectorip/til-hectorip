@@ -26,7 +26,6 @@ defaults:
       comments: true
       share: true
       related: true
-      date: true
   - scope:
       path: ""
       type: pages
