@@ -26,6 +26,7 @@ defaults:
       comments: true
       share: true
       related: true
+      date: true
   - scope:
       path: ""
       type: pages
@@ -49,4 +50,4 @@ analytics:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "hectorips-til"
+    shortname: "hectorip-til"
