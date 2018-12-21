@@ -38,7 +38,6 @@
             <p class="page__date"><strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Updated:" }}</strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></p>
       {% endif %}
       {% if post.read_time %}
-        READ
         <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
       {% endif %}
     </p>
