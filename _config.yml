@@ -15,7 +15,6 @@ paginate: 10
 paginate_path: /page:num/
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -26,6 +25,7 @@ defaults:
       comments: true
       share: true
       related: true
+      tags: true
   - scope:
       path: ""
       type: pages
@@ -49,4 +49,4 @@ analytics:
 comments:
   provider: "disqus"
   disqus:
-    shortname: "hectorip-til"
+    shortname: "hectorips-til"
