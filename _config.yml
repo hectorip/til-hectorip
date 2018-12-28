@@ -1,5 +1,6 @@
 remote_theme: mmistakes/minimal-mistakes
 # theme: jekyll-theme-minimal
+
 locale: es
 plugins:
     - jekyll-feed
@@ -39,7 +40,7 @@ author:
   bio    : "Developer"
   uri    : "https://github.com/hectorip"
   github : "https://github.com/hectorip-til"
-  home   : # null (default), "absolute or relative url to link to author home"
+  # home   : # null (default), "absolute or relative url to link to author home"
 
 analytics:
   provider: "google-gtag"
@@ -51,3 +52,14 @@ comments:
   provider: "disqus"
   disqus:
     shortname: "hectorips-til"
+
+jekyll_compose:
+  draft_default_front_matter:
+    description: "Escribe aquí la descripción"
+  # post_default_front_matter:
+  #   description:
+  #   image:
+  #   category:
+  #   tags:
+  #   published: false
+  #   sitemap: false

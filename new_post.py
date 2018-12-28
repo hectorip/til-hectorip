@@ -10,7 +10,7 @@ tags:
 comments: true
 excerpt: ""
 header:
-  image: http: // res.cloudinary.com / hectorip / image / upload / v1535950811 / residual_sixste.png
+  image: #image
 ---"""
 
 @begin.start(auto_convert=True)
