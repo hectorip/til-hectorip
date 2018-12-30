@@ -14,10 +14,27 @@ aprendizaje para dominarlo completamente. Asumo que ya tienes experiencia progra
 
 Los recursos que menciono son sobre todo libros, que yo mismo estoy en proceso de estudiar.
 
-## Lo básico
+Si no te has convencido aún puedes ver este documental:
 
-Yo empecé con [Programming Elixir](https://pragprog.com/book/elixir16/programming-elixir-1-6),
-algunos lo consideran una introducción demasiado pesada, pero creo que si ya tienes 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kilJ9qXxMWs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+## Empieza aquí
+
+En esta sección encontrarás cómo empezar con el lenguaje y su entorno.
+
+1. [Programming Elixir](https://pragprog.com/book/elixir16/programming-elixir-1-6). Algunos lo
+consideran una introducción demasiado pesada, pero creo que si ya tienes 
 experiencia en programción es necesario recibir instrucción de alguien como *Dave Thomas*,
 te exige y te enseña al mismo tiempo.
+
+2. [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook). Es una introducción más
+completa a OTP.
+
+
+Otros recursos, que considero opcionales, pero bastante útiles:
+
+- [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition). Escrito por 
+Saša Jurić, uno de los principales contribuidores al ecosistema actual de Elixir.
+
 
