@@ -37,4 +37,6 @@ Otros recursos, que considero opcionales, pero bastante útiles:
 - [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition). Escrito por 
 Saša Jurić, uno de los principales contribuidores al ecosistema actual de Elixir.
 
+- []
+
 
