@@ -31,12 +31,10 @@ te exige y te enseña al mismo tiempo.
 2. [The Little Elixir & OTP Guidebook](https://www.manning.com/books/the-little-elixir-and-otp-guidebook). Es una introducción más
 completa a OTP.
 
-
 Otros recursos, que considero opcionales, pero bastante útiles:
 
 - [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition). Escrito por 
 Saša Jurić, uno de los principales contribuidores al ecosistema actual de Elixir.
 
-- []
-
+- [Elixir Scholl](https://elixirschool.com/es) - Tutorial para aprender Elixir
 
