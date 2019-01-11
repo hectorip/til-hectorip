@@ -36,5 +36,32 @@ Otros recursos, que considero opcionales, pero bastante útiles:
 - [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition). Escrito por 
 Saša Jurić, uno de los principales contribuidores al ecosistema actual de Elixir.
 
-- [Elixir Scholl](https://elixirschool.com/es) - Tutorial para aprender Elixir
+- [Elixir School](https://elixirschool.com/es) - Tutorial para aprender Elixir
 
+## Elixir para Web
+
+Una vez dominado lo fundamental (y esto es por lo que muchos se acercan a Elixir), puedes aprender
+Phoenix, el principal Framework para programar para web con Elixir.
+
+Recomiendo los siguientes regursos en este orden:
+
+- [Programming Phoenix >=1.4](https://pragprog.com/book/phoenix14/programming-phoenix-1-4). Es el libro por excelencia
+sobre Phoenix, creado por el programador de Phoenix, el creador de Elixir y una leyenda de la programación.
+
+- [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix).
+Presenta un punto de vista muy interesante, habilitado por las capcidades de Erlang y Elixir: estamos listos para crear de nuevo
+servicios y aplicaciones web que conserven el estado de los datos entre peticiones y que mantengan conexiones persistentes
+entre el servidor y los clientes, además de que la lógica del negocio, para ser verdaderamente modular y escalable, 
+debería estar completamente separada del framework web que la habilita.
+
+## Conocimiento avanzado
+
+- [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir). Este libro te abrirá la mente acerca
+de lo que es capaz Elixir como lenguaje de programación y si lo aplicas, pasarás de ser usuario a creador del lenguaje. Además
+entenderás la razón detrás de algunas de las decisiones del lenguaje.
+
+## Habilidades específicas
+
+- [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir)
+
+- [Programming Ecto](https://pragprog.com/book/fhproper/programming-ecto)
