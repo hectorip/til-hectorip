@@ -4,7 +4,8 @@ date: 2018-12-27
 author: Héctor Patricio
 tags:
 comments: true
-excerpt: "Elixir es uno de los mejores lenguajes que puedes aprender "
+excerpt: "Elixir es uno de los mejores lenguajes que puedes aprender actualmente. Aquí presento
+algunos recursos para aprenderlo paso por paso."
 header:
   image: #image
 ---
