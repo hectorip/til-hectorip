@@ -37,14 +37,15 @@ Otros recursos, que considero opcionales, pero bastante útiles:
 - [Elixir in Action](https://www.manning.com/books/elixir-in-action-second-edition). Escrito por 
 Saša Jurić, uno de los principales contribuidores al ecosistema actual de Elixir.
 
-- [Elixir School](https://elixirschool.com/es) - Tutorial para aprender Elixir
+- [Elixir School](https://elixirschool.com/es) - Tutorial para aprender Elixir, me parece que es 
+el único recurso en español.
 
 ## Elixir para Web
 
 Una vez dominado lo fundamental (y esto es por lo que muchos se acercan a Elixir), puedes aprender
 Phoenix, el principal framework para programar para web con Elixir.
 
-Recomiendo los siguientes regursos en este orden:
+Recomiendo los siguientes recursos en este orden:
 
 - [Programming Phoenix >=1.4](https://pragprog.com/book/phoenix14/programming-phoenix-1-4). Es el libro por excelencia
 sobre Phoenix, creado por el programador de Phoenix, el creador de Elixir y una leyenda de la programación.
