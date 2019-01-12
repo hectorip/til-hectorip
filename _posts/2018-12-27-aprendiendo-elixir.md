@@ -4,7 +4,7 @@ date: 2018-12-27
 author: Héctor Patricio
 tags:
 comments: true
-excerpt: ""
+excerpt: "Elixir es uno de los mejores lenguajes que puedes aprender "
 header:
   image: #image
 ---
@@ -41,7 +41,7 @@ Saša Jurić, uno de los principales contribuidores al ecosistema actual de Elix
 ## Elixir para Web
 
 Una vez dominado lo fundamental (y esto es por lo que muchos se acercan a Elixir), puedes aprender
-Phoenix, el principal Framework para programar para web con Elixir.
+Phoenix, el principal framework para programar para web con Elixir.
 
 Recomiendo los siguientes regursos en este orden:
 
@@ -54,14 +54,30 @@ servicios y aplicaciones web que conserven el estado de los datos entre peticion
 entre el servidor y los clientes, además de que la lógica del negocio, para ser verdaderamente modular y escalable, 
 debería estar completamente separada del framework web que la habilita.
 
+Otros recursos:
+
+- [Phoenix Inside Out](https://shankardevy.com/phoenix-book/). Es una serie de libros sobre Phoenix, con cada libro centrado en un tema diferente. El autor los está actualizando para las nuevas versiones.
+
 ## Conocimiento avanzado
 
 - [Metaprogramming Elixir](https://pragprog.com/book/cmelixir/metaprogramming-elixir). Este libro te abrirá la mente acerca
 de lo que es capaz Elixir como lenguaje de programación y si lo aplicas, pasarás de ser usuario a creador del lenguaje. Además
 entenderás la razón detrás de algunas de las decisiones del lenguaje.
 
+- [Erlang in Anger](https://www.erlang-in-anger.com/). No lo he podido leer, pero el autor, un gran exponente en el mundo de Erlang,
+siempre está proponiendo maneras de hacer tu aplicación confiable.
+
 ## Habilidades específicas
 
-- [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir)
+- [Property-Based Testing with PropEr, Erlang, and Elixir](https://pragprog.com/book/fhproper/property-based-testing-with-proper-erlang-and-elixir).
+Fred Herbert, autor de Erlang in Anger y Learn you some Erlang, nos enseña como hacer Property Testing en Elixir y Erlang.
 
-- [Programming Ecto](https://pragprog.com/book/fhproper/programming-ecto)
+- [Programming Ecto](https://pragprog.com/book/wmecto/programming-ecto). Aprende a manejar Ecto de la mano de los creadores de las principales bibliotecas y aplicaciones en Elixir.
+
+
+## Conclusión
+
+Aunque la mayoría de los recursos están en inglés, hay una gran cantidad para empezar a 
+aprender y mejorar tus habilidades en Elixir. Además puedes unirte a la comunidad
+mundial en [Slack](https://elixir-slackin.herokuapp.com/), tenemos un canal para México
+en donde puedes pedir ayuda si te trabas en algo.
