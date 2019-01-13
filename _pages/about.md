@@ -1,6 +1,5 @@
 ---
 title: Acerca de este blog
-layout: single
 ---
 
 Soy Héctor Patricio, un desarrollador de software interesado en una gran cantidad de temas
