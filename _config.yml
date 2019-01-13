@@ -63,3 +63,5 @@ jekyll_compose:
   #   tags:
   #   published: false
   #   sitemap: false
+
+  include: ["_pages"]
