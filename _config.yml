@@ -64,4 +64,4 @@ jekyll_compose:
   #   published: false
   #   sitemap: false
 
-  include: ["_pages"]
+include: ["_pages"]
