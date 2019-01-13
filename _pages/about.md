@@ -1,5 +1,6 @@
 ---
 title: Acerca de este blog
+permalink: /about/
 ---
 
 Soy Héctor Patricio, un desarrollador de software interesado en una gran cantidad de temas
