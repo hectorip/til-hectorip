@@ -18,5 +18,5 @@ from random import randint
 def generate_pin(length=4):
   upper_limit = 10 ** length
   pin = randint(0, upper_limit-1)
-  return "{:04d}".format(pin)
+  return "{:0{length}d}".format(pin,length=length)
 ```
