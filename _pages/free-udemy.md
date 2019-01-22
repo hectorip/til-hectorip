@@ -1,6 +1,6 @@
 ---
 title: Free Udemy Courses
-slug: /free-udemy-courses/
+permalink: /free-udemy-courses/
 ---
 
 I found [a page](https://www.promodescuentos.com/ofertas/udemy-60-cursos-de-software-y-desarrollo-gratis-al-aplicar-cupon-276455) with several coupon for free courses in Udemy. Some are outdated and some coupons may expire,
