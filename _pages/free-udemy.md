@@ -1,7 +1,7 @@
-___
+---
 title: Free Udemy Courses
 slug: /free-udemy-courses
-___
+---
 
 I found [a page](https://www.promodescuentos.com/ofertas/udemy-60-cursos-de-software-y-desarrollo-gratis-al-aplicar-cupon-276455) with several coupon for free courses in Udemy. Some are outdated and some coupons may expire,
 but I think It's worth giving a try. I formatted the links to better access, maybe you don't have to enter 
@@ -44,7 +44,7 @@ CUPÓN: ALGO-BEGIN
 
 https://udemy.com/algorithms-for-beginners/?discountCode=ALGO-BEGIN
 
-7. Vue JS - Build Interactive Apps using Vue JS.
+7. Vue JS - Build Interactive Apps using Vue JS. // I think it's experid, but give it a try
 
 CUPÓN: STAICODE
 
