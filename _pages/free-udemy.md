@@ -4,8 +4,8 @@ permalink: /free-udemy-courses/
 ---
 
 I found [a page](https://www.promodescuentos.com/ofertas/udemy-60-cursos-de-software-y-desarrollo-gratis-al-aplicar-cupon-276455) with several coupon for free courses in Udemy. Some are outdated and some coupons may expire,
-but I think It's worth giving a try. I formatted the links to better access, maybe you don't have to enter 
-the coupon again.
+but I think It's worth giving a try. I formatted the links for better access, so you don't have to enter 
+the coupon again at checkout. Just click "Enroll Now"
 
 1. 30 Days Of Python | Unlock Your Python Potential CDevelopment.
 COUPON: CFEOCT2016
