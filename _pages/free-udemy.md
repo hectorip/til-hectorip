@@ -91,7 +91,7 @@ COUPON: SS_FREE
 COUPON:‌ MGD0912
 [https://udemy.com/hackingunity3d/?discountCode=MGD0912](https://udemy.com/hackingunity3d/?discountCode=MGD0912)
 
-22.C++ Development Tutorial Series - The Complete Coding Guide.
+22. C++ Development Tutorial Series - The Complete Coding Guide.
 COUPON:‌ CPP_FREE
 [https://udemy.com/cpp-course/?discountCode=CPP_FREE](https://udemy.com/cpp-course/?discountCode=CPP_FREE)
 
