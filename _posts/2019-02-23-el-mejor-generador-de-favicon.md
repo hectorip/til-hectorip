@@ -4,7 +4,7 @@ date: 2019-02-23
 author: Héctor Patricio
 tags: favicons tools web
 comments: true
-excerpt: ""
+excerpt: "El mejor favicon generator que he encontrado hasta el momento."
 ---
 
 Cuando desarrollas un sitio web, una de las cosas que siempre se dejan al final es el favicon,
