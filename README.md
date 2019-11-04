@@ -1,3 +1,3 @@
 # HectorIP's TIL
 
-Built with Jekyll over GitHub Pages
+Mi blog acerca de lo que aprendí en el día.
