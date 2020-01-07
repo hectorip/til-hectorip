@@ -11,6 +11,6 @@ excerpt: ""
 
 Leyendo [Thinking in bets](https://amzn.to/2sKCLTc) llegué a una parte en la que habla de que para mejorar las decisiones tienes que encontrarte con tu "yo del futuro" y el "yo del pasado".
 
-Lo primero interesante es que la misma área del cerebro que se activa cuando recordamos algo se activa cuando imaginamos el futuro. Así, es como si estuviéramos _recordando_ el futuro, estamos creando un futuro con nuestros recuerdos.
+Lo primero interesante es que la misma área del cerebro que se activa cuando recordamos algo se activa cuando imaginamos el futuro. Así, es como si estuviéramos _recordando_ el futuro, estamos creando un futuro _imaginado_ con nuestros recuerdos.
 
-Lo segundo es que esto nos permite incluír a nuestra áfea prefrontal, la encargada del razonamiento lógico y el juicio, por lo que nos prepara para tomar mejores decisiones.
+Lo segundo es que esto nos permite incluír a nuestra área prefrontal, la encargada del razonamiento lógico y el juicio, por lo que nos prepara para tomar mejores decisiones.
