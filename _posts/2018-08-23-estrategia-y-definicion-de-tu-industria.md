@@ -10,7 +10,7 @@ comments: true
 
 Estoy leyendo un libro llamado [HBR Essentials On Strategy](https://hbr.org/product/hbr-s-10-must-reads-on-strategy-with-featured-article-what-is-strategy-by-michael-e-porter/12601E-KND-ENG), en el cuál se explican las bases de una buena estrategia empresarial.
 
-Voy a penas en el segundo artículo, y tal vez sea por el desconomiento del tema, pero he aprendido muchísimo. Los dos primeros artículos son de Michael E. Porter, jamás había escuchado de él antes, pero parece un gurú en el campo de estrategia empresarial.
+Voy a penas en el segundo artículo, y tal vez sea por el desconocimiento del tema, pero he aprendido muchísimo. Los dos primeros artículos son de Michael E. Porter, jamás había escuchado de él antes, pero parece un gurú en el campo de estrategia empresarial.
 
 Lo que aprendí hoy es que se puede definir la industria o el mercado en el que te
 desempeñas o quieres que tu empresa/negocio actúe basándote en lo qué el llama las
