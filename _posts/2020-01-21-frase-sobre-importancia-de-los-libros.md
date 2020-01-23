@@ -10,7 +10,7 @@ draft: true
 
 Leyendo "La Lámpara de la Memoria" de John Ruskin, una colección de ensayos, encontré este párrafo:
 
-> Pero aún considerando que tuviéramos tanto la voluntad como la sensatez para conocer bien a nuestros amigos, ¡qué pocos contamos con el poder! [...] El grueso de nuestras asociaciones está determinado por el azar o la necesidad; y restringidas a un círculo estrecho.
+> Pero aún considerando que tuviéramos tanto la voluntad como la sensatez para escoger bien a nuestros amigos, ¡qué pocos contamos con el poder! [...] El grueso de nuestras asociaciones está determinado por el azar o la necesidad; y restringidas a un círculo estrecho.
 
 ¿Hasta aquí todos estamos de acuerdo? Nuestras asociaciones están determinadas por el lugar y estrato social en el que nacimos (en su mayoría). Si alguien necesita de nosotros y nos busca puede que esa persona se convierta en una asociación también. Ruskin continúa:
 
