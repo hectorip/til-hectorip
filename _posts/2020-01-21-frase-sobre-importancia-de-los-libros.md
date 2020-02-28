@@ -18,7 +18,7 @@ Leyendo "La Lámpara de la Memoria" de John Ruskin, una colección de ensayos, e
 
 Incluso en nuestra época, con internet y globalización, es difícil poder acceder a personas ilustres directamente.
 
-> [...] mientras, en paralelo, existe una sociedad continuamente abierta a nosotros, gente dispuesta a hablarnos el tiempo que queramos, independientemente de nuestro rango u ocupación; hablarnos seleccionando las mejores palabras a su alcance,  y spbre los temas más cercanos a su corazón.
+> [...] mientras, en paralelo, existe una sociedad continuamente abierta a nosotros, gente dispuesta a hablarnos el tiempo que queramos, independientemente de nuestro rango u ocupación; hablarnos seleccionando las mejores palabras a su alcance,  y sobre los temas más cercanos a su corazón.
 
 En esta frase Ruskin se está refiriendo a los libros. Son como personas, algunos de la más alta categoría en su nicho, esperando a que les demos audiencia mediante leerlos. Estas conversaciones no son cualquiera, como él dice: son las mejores palabras al alcance de alguien y generalmente te habla de temas importantes para el autor.
 
