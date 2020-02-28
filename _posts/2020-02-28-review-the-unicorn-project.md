@@ -33,20 +33,26 @@ Y además habla de 3 horizontes que las empresas deben de tener en mente para ma
 
 * **Horizonte 2**. Iniciativas en las que estás experimentando y aprendiendo para ver si pueden convertirse en el próximo enfoque y operación de la empresa, esto es lo que te mantendrá vivo en el mediano-largo plazo.
 
-* **Horizonte 3**. Experimentos de lo más nuevo y revolucionario de los que escogerás de los cuáles aprender más para ver si pueden aportar algo de valor y convertirse en experimentos más formales.
+* **Horizonte 3**. Experimentos de lo más nuevo y revolucionario de los que escogerás en cuáles puedes aprender más para ver si pueden aportar algo de valor y convertirse en experimentos más formales.
 
-También habla de saber distinguir entre _"Contexto"_ y _"Centro"_. Contexto es todo aquello que habilita tu operación sin ser tu operación distintiva. El centro es aquello que haces mejor que nadie y por los que los clientes te pagan. Por ejemplo en el caso de una escuela, el centro es tener buenos planes de estudios y buenos maestros que los impartan mientras que el contexto es todo lo que permite que las clases se lleven a cabo, los servicios eléctricos, los sanitarios e incluso las instalaciones. La teoría dice que todo lo que no sea tu centro deberías buscar pasárselo a un tercero que lo haga mejor que tú porque así te podrás concentrar en lo que haces mejor.
+También habla de saber distinguir entre _"Contexto"_ y _"Centro"_. Contexto es todo aquello que habilita tu operación sin ser tu operación distintiva. El centro es aquello que haces mejor que nadie y por lo que los clientes te pagan.
+
+Por ejemplo: en el caso de una escuela, el centro es tener buenos planes de estudios y buenos maestros que los impartan, mientras que el contexto es todo lo que permite que las clases se lleven a cabo, los servicios eléctricos, los sanitarios e incluso las instalaciones.
+
+La teoría dice que todo lo que no sea tu centro deberías buscar pasárselo a un tercero que lo haga mejor que tú porque así te podrás concentrar en lo que haces mejor.
 
 ### Ahora lo malo
 
 Este libro ejemplifica todo lo que está mal con la industria del software.
 
-**Expectativas irrazonables y exceso de trabajo.** Habla de cómo los patrones pueden esperar que sus empleados gasten incontables horas extras (no especifica si pagadas o no) en componer cosas que están mal la empresa. Como si la empresa fuera de ellos y ellos fueran los beneficiados de eso. Es cierto que hay personas que son capaces de hacerlo, pero confiar en este tipo de fuerza de trabajo es ingenuo por muchas razones: no es sostenible en el mediano y largo plazo, los que trabajan así van a quedar traumatizados y eventualmente tu fuerza de trabajo se va a ir. Intentar conseguir personas que hagan los mismo ahora será un trabajo imposible.
+**Expectativas irrazonables y exceso de trabajo.** Habla de cómo los patrones pueden esperar que sus empleados gasten incontables horas extras (no especifica si pagadas o no) en componer cosas que están mal la empresa. Como si la empresa fuera de ellos y ellos fueran los beneficiados de esa actitud.
+
+Es cierto que hay personas que son capaces de hacerlo, pero confiar en este tipo de fuerza de trabajo es ingenuo por muchas razones: no es sostenible en el mediano y largo plazo, los que trabajan así van a quedar traumatizados y eventualmente tu fuerza de trabajo se va a ir. Intentar conseguir personas que hagan lo mismo ahora será un trabajo imposible.
 
 **Soluciones mágicas.** La historia presenta soluciones tecnológicas como si fueran magia: "la Nube®", "Programación Funcional", "NoSQL" son las tres que identifiqué aunque probablemente hay más y también de otras áreas (seguro de administración). Es cierto que hay cosas que te habilitan para ser más ágil y poder resolver problemas de otra manera, muchas veces más eficiente, pero:
 
  1) No hay balas de plata
- 2) No hay luches gratis.
+ 2) No hay comida gratis
 
 Es decir, no hay soluciones generales para todos los casos y cada uno de las soluciones que encuentres viene con intercambio de valor por algo.
 
