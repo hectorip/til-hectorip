@@ -9,13 +9,13 @@ header:
   image: https://res.cloudinary.com/hectorip/image/upload/c_scale,w_1400/v1584146992/0BC83BBE-2C8B-40CC-B655-2EB8AD614592-HDR_h7kcxm.jpg
 ---
 
-Este libro lo empecé a leer porque vi que un muy programador en Twitter lo recomendaba.
+Este libro lo empecé a leer porque vi que un muy buen programador en Twitter lo estaba leyendo.
 
-Una introducción bastante completa, entretenida y pensada para las personas que no saben nada de Pensamiento Computacional o sólo han escuchado mencionarlo por todos lados, sin entender bien a qué se refiere.
+Es una introducción bastante completa, entretenida y pensada para las personas que no saben nada de Pensamiento Computacional o sólo han escuchado mencionarlo por todos lados, sin entender bien a qué se refiere.
 
 Escrito por los encargados de recomendar temarios a las escuelas sobre lo que deberían enseñar en este tema, miembros de la ACM, es un libro que toca ampliamente a todo lo que nos podemos referir con el término además de la historia y la evolución.
 
-Si nunca recibiste educación de esto, lo recomiendo mucho. Si eres un doctor en Pensamiento computacional o ciencias computacionales, probablemente tenga poco qué aportarte.
+Si nunca recibiste educación en CT, lo recomiendo mucho. Si eres un doctor en Pensamiento computacional o ciencias computacionales, probablemente tenga poco qué aportarte.
 
 Otra cosa que me gustó es que es una fuente de referencias para educarte mucho más sobre el tema y que presenta los temas de manera muy muy sencilla, tanto que es posible tomar estas explicaciones para usarlas en clases o explicaciones a otras personas.
 
@@ -30,3 +30,7 @@ Pequeño Resumen:
 - El pensamiento actual de que el mundo es una simulación o una computadora es un pensamiento natural pero probablemente erróneo: casi siempre los humanos comparamos el mundo con nuestro último invento que nos ha cambiado la vida.
 - La ciencia ha desarrollado su propio tipo de pensamiento computacional
 - La computación no puede estar separada de otras áreas para que sea útil y debe aprender mucho del dominio en el que es aplicada.
+
+# Conclusión
+
+Recomiendo mucho su lectura si te interesa ampliar tu conocimiento de pensamiento computacional. Es sólo un poco repetitivo pero siento que las repeticiones ayuda a solidificar algunos puntos. Es tan bueno que estoy pensando en comprar los demás libros de l colección. 
