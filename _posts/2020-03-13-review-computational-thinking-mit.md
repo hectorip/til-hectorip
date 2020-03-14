@@ -6,7 +6,7 @@ tags: reseña libro computattional-thinking mit-essentials
 comments: true
 excerpt: "Resumen y reseña de Computational Thinking de la serie MIT Essentials"
 header:
-  image:
+  image: https://res.cloudinary.com/hectorip/image/upload/c_scale,w_1400/v1584146992/0BC83BBE-2C8B-40CC-B655-2EB8AD614592-HDR_h7kcxm.jpg
 ---
 
 Este libro lo empecé a leer porque vi que un muy programador en Twitter lo recomendaba.
