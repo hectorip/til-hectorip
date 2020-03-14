@@ -9,13 +9,14 @@ header:
   image: https://res.cloudinary.com/hectorip/image/upload/c_scale,w_1400/v1584146992/0BC83BBE-2C8B-40CC-B655-2EB8AD614592-HDR_h7kcxm.jpg
 ---
 
-Este libro lo empecé a leer porque vi que un muy buen programador en Twitter lo estaba leyendo.
+Este libro lo empecé a leer porque vi que un muy buen programador/artista en [Twitter](https://twitter.com/mrmrs_/status/1185556474623385600) lo estaba leyendo y me pareció interesante.
 
+--------
 Es una introducción bastante completa, entretenida y pensada para las personas que no saben nada de Pensamiento Computacional o sólo han escuchado mencionarlo por todos lados, sin entender bien a qué se refiere.
 
-Escrito por los encargados de recomendar temarios a las escuelas sobre lo que deberían enseñar en este tema, miembros de la ACM, es un libro que toca ampliamente a todo lo que nos podemos referir con el término además de la historia y la evolución.
+Escrito por los encargados de **recomendar temarios a las escuelas sobre lo que deberían enseñar en este tema**, miembros de la ACM, es un libro que toca ampliamente a todo lo que nos podemos referir con el término además de la historia y la evolución.
 
-Si nunca recibiste educación en CT, lo recomiendo mucho. Si eres un doctor en Pensamiento computacional o ciencias computacionales, probablemente tenga poco qué aportarte.
+Si nunca recibiste educación en CT (Computational Thinking), lo recomiendo mucho. Si eres un doctor en Pensamiento computacional o ciencias computacionales, probablemente tenga poco qué aportarte.
 
 Otra cosa que me gustó es que es una fuente de referencias para educarte mucho más sobre el tema y que presenta los temas de manera muy muy sencilla, tanto que es posible tomar estas explicaciones para usarlas en clases o explicaciones a otras personas.
 
