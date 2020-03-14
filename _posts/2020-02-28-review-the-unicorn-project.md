@@ -49,16 +49,19 @@ Este libro ejemplifica todo lo que está mal con la industria del software.
 
 Es cierto que hay personas que son capaces de hacerlo, pero confiar en este tipo de fuerza de trabajo es ingenuo por muchas razones: no es sostenible en el mediano y largo plazo, los que trabajan así van a quedar traumatizados y eventualmente tu fuerza de trabajo se va a ir. Intentar conseguir personas que hagan lo mismo ahora será un trabajo imposible.
 
-**Soluciones mágicas.** La historia presenta soluciones tecnológicas como si fueran magia: "la Nube®", "Programación Funcional", "NoSQL" son las tres que identifiqué aunque probablemente hay más y también de otras áreas (seguro de administración). Es cierto que hay cosas que te habilitan para ser más ágil y poder resolver problemas de otra manera, muchas veces más eficiente, pero:
+**Soluciones mágicas.** La historia presenta soluciones tecnológicas como si fueran magia: "L
+a Nube®", "Programación Funcional", "NoSQL" son las tres que identifiqué aunque probablemente hay más y también de otras áreas (seguro de administración). Es cierto que hay cosas que te habilitan para ser más ágil y poder resolver problemas de otra manera, muchas veces más eficiente, pero:
 
- 1) No hay balas de plata
- 2) No hay comida gratis
+ 1. No hay balas de plata
+ 2. No hay comida gratis
 
 Es decir, no hay soluciones generales para todos los casos y cada uno de las soluciones que encuentres viene con intercambio de valor por algo.
 
 Este es le problema principal del libro, te habla de _ideales_ que no te dice cómo lograr de manera práctica sino que solamente presenta una historia simplificada que no aporta mucho valor.
 
 Sería un buen libro para alguien que no ha escuchado nada de cómo debería trabajar la industria actual, pero el contenido se puede reducir a 10 páginas si no estuviera en ese formato. Además, la actitud de los personajes y el **uso del alcohol** para olvidarse de los problemas y para celebrar y para dormir bien empeora todo.
+
+Por otro lado
 
 ## Soluciones falsas
 
