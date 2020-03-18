@@ -34,4 +34,4 @@ Pequeño Resumen:
 
 # Conclusión
 
-Recomiendo mucho su lectura si te interesa ampliar tu conocimiento de pensamiento computacional. Es sólo un poco repetitivo pero siento que las repeticiones ayuda a solidificar algunos puntos. Es tan bueno que estoy pensando en comprar los demás libros de l colección. 
+Recomiendo mucho su lectura si te interesa ampliar tu conocimiento de pensamiento computacional. Es sólo un poco repetitivo pero siento que las repeticiones ayuda a solidificar algunos puntos. Es tan bueno que estoy pensando en comprar los demás libros de l colección.
