@@ -1,6 +1,6 @@
 ---
 title: "Reseña de Semicolon"
-date: 2020-03-13
+date: 2020-04-05
 author: Héctor Patricio
 tags: reseña libro semicolon gramática
 comments: true
