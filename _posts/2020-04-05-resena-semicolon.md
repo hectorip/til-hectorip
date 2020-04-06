@@ -1,10 +1,10 @@
 ---
-title: ""
+title: "Hexdump, "
 date: 2020-04-05
 author: Héctor Patricio
 tags: reseña libro semicolon gramática
 comments: true
-excerpt: "Uso de Hexdump"
+excerpt: "Hexdump, herramienta para visualizar un  a nivel de bytes hexadecimales"
 header:
   image: 
 ---
