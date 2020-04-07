@@ -1,5 +1,5 @@
 ---
-title: "El ordenamiento aleatorio (order by '?') en bases de datos relaciones no es recomendable"
+title: "El ordenamiento aleatorio (order by '?') en bases de datos relacionales no es recomendable"
 date: 2020-04-05
 author: Héctor Patricio
 tags: sql bases-de-datos
