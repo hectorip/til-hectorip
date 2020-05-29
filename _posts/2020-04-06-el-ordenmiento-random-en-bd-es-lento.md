@@ -5,8 +5,6 @@ author: Héctor Patricio
 tags: sql bases-de-datos
 comments: true
 excerpt: "Por qué el ordenamiento aleatorio en base de datos es lento"
-header:
-  image: 
 ---
 
 Buscando una solución para seleccionar un registro aleatorio en un modelo de Django, busqué si había forma de ordenar una colección de manera aleatoria y después seleccionar el primero de la colección.
