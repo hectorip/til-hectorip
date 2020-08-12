@@ -40,7 +40,7 @@ author:
   avatar : "/assets/images/me.jpg"
   bio    : "Developer"
   uri    : "https://github.com/hectorip"
-  github : "til-hectorip"
+  github : "hectorip/til-hectorip"
   # home   : # null (default), "absolute or relative url to link to author home"
 
 analytics:
