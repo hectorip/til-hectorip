@@ -31,16 +31,9 @@
       {% endif %}
     </h2>
 
-    <p class="page__meta">
-      {% if post.last_modified_at %}
-        <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i></strong> <time datetime="{{ post.last_modified_at | date: "%Y-%m-%d" }}">{{ post.last_modified_at | date: "%B %d, %Y" }}</time> &nbsp;
-      {% elsif post.date %}
-        <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> </strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time> &nbsp;
-      {% endif %}
-      {% if post.read_time %}
-       |&nbsp;&nbsp;<i class="far fa-clock" aria-hidden="true"></i> {% include post__meta.html %}
-      {% endif %}
-    </p>
+ 
+    {% include post__meta.html %}
+
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
   </article>
 </div>
