@@ -38,7 +38,7 @@
         <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i> </strong> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time> &nbsp;
       {% endif %}
       {% if post.read_time %}
-       |&nbsp;&nbsp;<i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+       |&nbsp;&nbsp;<i class="far fa-clock" aria-hidden="true"></i> {% include post__meta.html %}
       {% endif %}
     </p>
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 160 }}</p>{% endif %}
