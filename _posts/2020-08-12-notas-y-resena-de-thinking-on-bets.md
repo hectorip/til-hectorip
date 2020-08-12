@@ -4,7 +4,7 @@ date: 2020-08-12
 author: Héctor Patricio
 tags: libros books resumen reseña decisiones poker
 comments: true
-excerpt: "¿Quieres buenas bases para aprender a tomar decisiones? Thinking on Bets te puede ayudar."
+excerpt: "¿Quieres buenas bases para aprender a tomar decisiones? Thinking in Bets te puede ayudar."
 ---
 
 ![Portada Thinking in bets](https://images-na.ssl-images-amazon.com/images/I/81Kt59W6lkL.jpg)
