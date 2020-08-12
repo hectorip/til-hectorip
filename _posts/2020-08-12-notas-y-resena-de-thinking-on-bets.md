@@ -7,11 +7,11 @@ comments: true
 excerpt: "¿Quieres buenas bases para aprender a tomar decisiones? Thinking in Bets te puede ayudar."
 ---
 
-![Portada Thinking in bets](https://images-na.ssl-images-amazon.com/images/I/81Kt59W6lkL.jpg)
-
 Leí **Thinking in Bets** escrito por una profesional en tomar decisiones: **Annie Duke**, y me parece un muy buen libro para educarte si eres muy indeciso.
 
 Me enseñó un concepto que no conocía y varias técnicas para decidir mejor y rápidamente. Además, me educó sobre los sesgos que tenemos naturalmente que pueden afectar nuestras decisiones.
+
+![Portada Thinking in bets](https://images-na.ssl-images-amazon.com/images/I/81Kt59W6lkL.jpg)
 
 ## Resulting
 
