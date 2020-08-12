@@ -11,7 +11,7 @@ Leí **Thinking in Bets** escrito por una profesional en tomar decisiones: **Ann
 
 Me enseñó un concepto que no conocía y varias técnicas para decidir mejor y rápidamente. Además, me educó sobre los sesgos que tenemos naturalmente que pueden afectar nuestras decisiones.
 
-![Portada Thinking in bets](https://images-na.ssl-images-amazon.com/images/I/81Kt59W6lkL.jpg)
+![Portada Thinking in bets](https://images-na.ssl-images-amazon.com/images/I/81Kt59W6lkL.jpg){: .align-center}
 
 ## Resulting
 
