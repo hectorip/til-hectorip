@@ -1,6 +1,4 @@
 remote_theme: mmistakes/minimal-mistakes
-# theme: jekyll-theme-minimal
-
 locale: es
 plugins:
     - jekyll-feed
@@ -40,7 +38,7 @@ author:
   avatar : "/assets/images/me.jpg"
   bio    : "Developer"
   uri    : "https://github.com/hectorip"
-  github : "https://github.com/hectorip-til"
+  github : "hectorip/til-hectorip"
   # home   : # null (default), "absolute or relative url to link to author home"
 
 analytics:
