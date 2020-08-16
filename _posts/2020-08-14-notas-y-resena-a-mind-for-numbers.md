@@ -4,7 +4,7 @@ date: 2020-08-14
 author: Héctor Patricio
 tags: matemáticas estudio reseña libro
 comments: true
-excerpt: "¿Te cuesta trabajo aprender ciencias y matemáticas? Este libro de Barbara Oakley tiene consejos bastante interesantes.s"
+excerpt: "¿Te cuesta trabajo aprender ciencias y matemáticas? Este libro de Barbara Oakley tiene consejos bastante interesantes."
 ---
 
 Esta es una reseña-resumen de **A mind for numbers** de Bárbara Oakley, un libro sobre el aprendizaje de temas  complejos. ¿Te suena?
