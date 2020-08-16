@@ -1,5 +1,5 @@
 ---
-title: "Reseña: Lisp Hackers"
+title: "Reseña: La vida minimal"
 date: 2020-08-15
 author: Héctor Patricio
 tags: programming-languages lisp reseña libro
