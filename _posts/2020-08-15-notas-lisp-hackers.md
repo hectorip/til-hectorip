@@ -57,7 +57,7 @@ La conclusión del libro es: **si no sabes Lisp, aprenderlo te hará un mejor pr
 
 ¿Qué cosas puedo poner en práctica?
 
-1.Aprender Lisp
+1. Aprender Lisp
 2. Aprender Emacs
 3. Mejorar el manejo de mi IDE actual: VSCode
 4. Prototipar una solución antes de crear el programa que irá a producción
