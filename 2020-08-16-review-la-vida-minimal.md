@@ -2,22 +2,20 @@
 title: "Reseña: La vida minimal"
 date: 2020-08-15
 author: Héctor Patricio
-tags: programming-languages lisp reseña libro
+tags: lifestyle minimalismo reseña libro
 comments: true
-excerpt: "¿Te has preguntado por qué Lisp ha tenido tanta influencia en los lenguajes de programación y en la cultura de desarrollo en general? Algunas entrevistas que se hicieron en este libro te pueden ayudar a entenderlo."
+excerpt: "Este libro ligero te puede recordar algunas cosas importantes de la vida y te da algunos consejos prácticos sobre cómo lograrlo."
 ---
 
-[Lisp Hackers](https://leanpub.com/lisphackers) es un libro sobre las entrevistas que [Vsevolod Domkin](https://twitter.com/vseloved) hizo a varios programadores de Lisp, acerca de sus proyectos, por qué usan Lisp y qué han logrado con él.
+Hace poco releí [La vida minimal](https://leanpub.com/lisphackers) de Pedro Campos. La primera vez que lo leí no me supo a casi nada, pero la segunda me dejó más cosa en qué pensar,
 
-![Portada de Lisp Hackers](https://d2sofvawe08yqg.cloudfront.net/lisphackers/hero2x?1549423138){: .align-center}
+![Portada de La vida minimal](https://d2sofvawe08yqg.cloudfront.net/lisphackers/hero2x?1549423138){: .align-center}
 
-Lo que respondieron no lo podrás creer...
+
 
 ## Acerca del libro
 
-El libro consiste de 14 entrevistas a programadores que el autor llama "**programadores 100x**", es decir, programadores muy productivos. Estos hablan acerca de sus creaciones, lo que han logrado, sus setups de trabajo, las herramientas que les facilitan la vida, etc.
-
-Las características que los definían es principalmente haber contribuido a la comunidad de Lisp, al Open Source y haber trabajado con Lisp en un proyecto o compañía exitoso.
+Pedro escribió este libro después de escribir varios años en su blog sobre minimalismo.
 
 ## Síntesis del libro
 
