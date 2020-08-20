@@ -22,6 +22,9 @@ Pedro escribió este libro después de escribir varios años en [su blog](https:
 
 El **el minimalismo** es el movimiento que se contrapone a la tendencia, principalmente promovida por el mundo comercial, que nos impulsa a **a tener más** para ser _más felices_. Esto surgió porque vez tras vez se ha demostrado (casi siempre anectdóticamente) que _tener_ más sólo te hace feliz hasta cierto punto, cuando tienes **lo suficiente**.
 
+En el libro 
 
 
 ## Opinión
+
+ME gusta la ligerez del libro.
