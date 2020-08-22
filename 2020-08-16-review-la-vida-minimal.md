@@ -22,7 +22,10 @@ Pedro escribió este libro después de escribir varios años en [su blog](https:
 
 El **el minimalismo** es el movimiento que se contrapone a la tendencia, principalmente promovida por el mundo comercial, que nos impulsa a **a tener más** para ser _más felices_. Esto surgió porque vez tras vez se ha demostrado (casi siempre anectdóticamente) que _tener_ más sólo te hace feliz hasta cierto punto, cuando tienes **lo suficiente**.
 
-Cargar cosas de más nos hace infelices, tienes que preocuparte por más. Y no sólo en el aspecto material sino en el aspecto mental y emocional: querer cumplir con lo que creemos que debemos ser porque se nos ha impuesto o cargar relaciones que no son productivas por un sentido raro de compromiso no es eficiente ni sano.
+Cargar cosas de más   nos hace infelices, tienes que preocuparte por más. Y no sólo en el aspecto material, sino en el aspecto mental y emocional: querer cumplir con lo que creemos que debemos ser porque se nos ha impuesto o cargar relaciones que no son productivas por un sentido raro de compromiso, **no es eficiente ni sano**.
+
+Además, estar libre de cargas innecesarias te permitirá poder ayudar a los demás, algo que naturalmente nos da mucha satisfacción.
+
 
 
 ## Accionables
