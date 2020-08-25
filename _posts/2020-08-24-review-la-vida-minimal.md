@@ -1,6 +1,6 @@
 ---
 title: "Reseña: La vida minimal"
-date: 2020-08-18
+date: 2020-08-24
 author: Héctor Patricio
 tags: lifestyle minimalismo reseña libro
 comments: true
