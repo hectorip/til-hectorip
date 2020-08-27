@@ -20,23 +20,22 @@ En él podemos encontrar capítulos cortos sobre cómo podemos acercarnos a una 
 
 ## Síntesis del libro
 
-¿Qué es lo que realmente quieren la mayoría de las personas? **Ser felices**. Y aunque la felicidad puede significar _distintas cosas para diferentes personas_, la mayoría de la información (casi toda experimental) sobre cómo alcanzarla concuerdan en que es un sentimiento que viene del interior. Así que no se necesita mucho del exterior para alcanzarla.
+¿Qué es lo que realmente quieren la mayoría de las personas? **Ser felices**. Y aunque la felicidad significa _distintas cosas para diferentes personas_, la mayoría de la información (casi toda experimental) sobre cómo alcanzarla concuerdan en que es un sentimiento que viene del interior. Así que no se necesita mucho del exterior para alcanzarla.
 
 El **el minimalismo** es el movimiento que se contrapone a la tendencia, principalmente promovida por el mundo comercial, que nos impulsa a **a tener más** para ser _más felices_. Esto surgió porque vez tras vez se ha demostrado (casi siempre anectdóticamente) que _tener_ más sólo te hace feliz hasta cierto punto, cuando tienes **lo suficiente**.
 
-Cargar cosas de más   nos hace infelices, tienes que preocuparte por más. Y no sólo en el aspecto material, sino en el aspecto mental y emocional: querer cumplir con lo que creemos que debemos ser porque se nos ha impuesto o cargar relaciones que no son productivas por un sentido raro de compromiso, **no es ef0iciente ni sano**.
+Cargar cosas de más  nos hace infelices, tienes que preocuparte por más. Y no sólo en el aspecto material, sino en el aspecto mental y emocional: querer cumplir con lo que creemos que debemos ser porque se nos ha impuesto o cargar relaciones que no son productivas por un sentido raro de compromiso, **no es ef0iciente ni sano**.
 
 Además, estar libre de cargas innecesarias te permitirá poder ayudar a los demás, algo que naturalmente nos da mucha satisfacción.
 
-
-
 ## Accionables
 
-1. Deshacerme lo más que pueda de cosas materiales que no ocupo.
+1. Deshacerme **lo más que pueda** de cosas materiales que no ocupo.
 2. Dejar actividades que creo que **tengo** que hacer pero en realidad no me producen satisfacción ni algún otro tipo de beneficios.
 3. Evitar mantener relaciones no productivas.
 4. Meditar más seguido en lo que _realmente_ quiero.
 
 ## Opinión
 
-Me gusta la ligerez del libro, es bastante fácil de leer y entra en los temas importantes pronto. Además, da consejos que se pueden poner en práctica rápidamente si tienes la duficiente valentía.
+Me gusta la ligerez del libro, es bastante fácil de leer y entra en los temas importantes pronto. Además, da consejos que se pueden poner en práctica rápidamente si tienes la suficiente valentía.
+
