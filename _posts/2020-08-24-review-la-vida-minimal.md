@@ -14,7 +14,7 @@ Hace poco releí [La vida minimal](https://www.amazon.com.mx/vida-minimal-Pedro-
 
 ## Acerca del libro
 
-Pedro escribió este libro después de escribir varios años en [su blog](https://lavidaminimal.com/) sobre minimalismo y sobre cómo llevar una vida más _ligera_. 
+Pedro escribió este libro después de escribir varios años en [su blog](https://lavidaminimal.com/) sobre minimalismo y sobre cómo llevar una vida más _ligera_.
 
 En él podemos encontrar capítulos cortos sobre cómo podemos acercarnos a una **vida minimalista** sin cargas inecesarias, en distintos sentidos: material, mental y emocional. Además tiene ilustraciones que te ayudan a pensar en lo que acabas de leer.
 
@@ -24,9 +24,16 @@ En él podemos encontrar capítulos cortos sobre cómo podemos acercarnos a una 
 
 El **el minimalismo** es el movimiento que se contrapone a la tendencia, principalmente promovida por el mundo comercial, que nos impulsa a **a tener más** para ser _más felices_. Esto surgió porque vez tras vez se ha demostrado (casi siempre anectdóticamente) que _tener_ más sólo te hace feliz hasta cierto punto, cuando tienes **lo suficiente**.
 
+Además, las pertenencias se vuelven contraproducentes para tu felcidad a partir de cierto punto, ya que tienes que dedicarles más tiempo, atención y te sientes en cierta forma compremetido con su cuidado y mantenimiento.
+
 Cargar cosas de más  nos hace infelices, tienes que preocuparte por más. Y no sólo en el aspecto material, sino en el aspecto mental y emocional: querer cumplir con lo que creemos que debemos ser porque se nos ha impuesto o cargar relaciones que no son productivas por un sentido raro de compromiso, **no es ef0iciente ni sano**.
 
 Además, estar libre de cargas innecesarias te permitirá poder ayudar a los demás, algo que naturalmente nos da mucha satisfacción.
+
+> ¿Qué es lo verdaderamente importante?
+
+Después de convencerte un rato sobre la imporantancia de la ligereza...
+
 
 ## Accionables
 
@@ -38,4 +45,3 @@ Además, estar libre de cargas innecesarias te permitirá poder ayudar a los dem
 ## Opinión
 
 Me gusta la ligerez del libro, es bastante fácil de leer y entra en los temas importantes pronto. Además, da consejos que se pueden poner en práctica rápidamente si tienes la suficiente valentía.
-
