@@ -1,6 +1,6 @@
 ---
 title: "Cómo crear comandos administrativos de Django"
-date: 2018-09-00
+date: 2020-08-28
 author: Héctor Patricio
 tags: django python tools
 comments: true
