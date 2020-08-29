@@ -35,4 +35,6 @@ Ahora rellena `handle` con tu código específico. Este es como cualquier otro a
 
 La última línea no es necesaria pero es un ejemplo de cómo escribir un mensaje formateado como texto que quiere señalizar que algo salió bien. Esto será muy útil si quieres dar detalles de cómo va el proceso.
 
-Lo demás lo puedes leer aquí:
+Lo demás lo puedes leer aquí (en inglés): [Writing custom django-admin Commands](https://docs.djangoproject.com/en/3.1/howto/custom-management-commands/)
+
+Y aquí un tutorial un poco más extenso en español: [Comandos de Gestión de Django](https://sodocumentation.net/es/django/topic/1661/comandos-de-gestion).
