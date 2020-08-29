@@ -11,7 +11,6 @@ Hace poco releí [La vida minimal](https://amzn.to/3b8dCDt) de Pedro Campos. La 
 
 ![Portada de La vida minimal](https://res.cloudinary.com/hectorip/image/upload/v1598594222/42BB9978-0FF8-4427-924E-2FE579189372-8FA5090F-3CDC-4588-BD9C-A7EB0C3DE3D3_rsnznk.jpg){: .align-center}
 
-
 ## Acerca del libro
 
 Pedro escribió este libro después de escribir varios años en [su blog](https://lavidaminimal.com/) sobre minimalismo y sobre cómo llevar una vida más _ligera_.
