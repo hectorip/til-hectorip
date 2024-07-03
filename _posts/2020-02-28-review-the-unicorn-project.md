@@ -17,7 +17,7 @@ Todos empiezan siendo muy infelices y terminan siendo muy felices, logrando corr
 
 Es uno de los peores libros que puedes leer acerca de administración de proyectos de tecnología y cambio tecnológico. Es todo lo contrario a su predecesor, The Phoenix Project, o tal vez lo leí con ojos completamente diferentes.
 
-### Primero lo bueno.
+### Primero lo bueno
 
 La base son 5 principios que ayudarán a que un proyecto digital sea exitoso:
 
@@ -55,21 +55,19 @@ a Nube®", "Programación Funcional", "NoSQL" son las tres que identifiqué aunq
  1. No hay balas de plata
  2. No hay comida gratis
 
-Es decir, no hay soluciones generales para todos los casos y cada uno de las soluciones que encuentres viene con intercambio de valor por algo.
+Es decir, no hay soluciones generales para todos los casos y cada una de las soluciones que encuentres viene con un intercambio por otra cosa.
 
 Este es le problema principal del libro, te habla de _ideales_ que no te dice cómo lograr de manera práctica sino que solamente presenta una historia simplificada que no aporta mucho valor.
 
 Sería un buen libro para alguien que no ha escuchado nada de cómo debería trabajar la industria actual, pero el contenido se puede reducir a 10 páginas si no estuviera en ese formato. Además, la actitud de los personajes y el **uso del alcohol** para olvidarse de los problemas y para celebrar y para dormir bien empeora todo.
 
-Por otro lado
-
 ## Soluciones falsas
 
-Algo de lo peor del enfoque de este libro es que puede dar una impresión falsa de cómo debe ser el trabajo en las empresas y en el área de tecnología.
+Lo peor del enfoque de este libro es que puede dar una impresión falsa de cómo debe ser el trabajo en las empresas y en el área de tecnología.
 
 Primero, promueve el trabajo que no es sostenible escudándolo detrás de la "pasión". Nadie debería sentirse obligado a trabajar demás por miedo a que digan que es indiferente o no le interesa su trabajo.
 
-Segundo, la idea de pensar que la gente está tan interesada en tu empresa como para trabajar fines de semana y no dormir es injusta para ellos y para ti, si eres dueño de un empresa o un pequeño negocio. Buscar construir un equipo así, "guiado por la pasión", en el que la empresa es "una familia" es una forma poco efectiva de ocultar problemas graves como la **mala administración**, **una mala idea de negocio** o un negocio que **no es rentable**. Además es explotación.
+Segundo, la idea de pensar que la gente está tan interesada en tu empresa como para trabajar fines de semana y no dormir es injusta para ellos y para ti, y es abusiva si eres dueño de un empresa o un pequeño negocio. Buscar construir un equipo así, "guiado por la pasión", en el que la empresa es "una familia" es una forma poco efectiva de ocultar problemas graves como la **mala administración**, **una mala idea de negocio** o un negocio que **no es rentable**. Eso  es explotación.
 
 ## Conclusión
 
