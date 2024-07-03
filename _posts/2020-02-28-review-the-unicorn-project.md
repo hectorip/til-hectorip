@@ -43,7 +43,7 @@ La teoría dice que todo lo que no sea tu centro deberías buscar pasárselo a u
 
 ### Ahora lo malo
 
-Este libro ejemplifica todo lo que está mal con la industria del software.
+Este libro **ejemplifica y promueve** todo lo que está mal con la industria del software.
 
 **Expectativas irrazonables y exceso de trabajo.** Habla de cómo los patrones pueden esperar que sus empleados gasten incontables horas extras (no especifica si pagadas o no) en componer cosas que están mal la empresa. Como si la empresa fuera de ellos y ellos fueran los beneficiados de esa actitud.
 
