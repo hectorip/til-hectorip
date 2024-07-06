@@ -26,5 +26,14 @@ se repiten en Meditaciones.
 
 ## Sobre la virtud
 
-Otro de los temas subyacentes de las ideas principales de Meditaciones es la idea de la virtud. Marco
-Aurelio
+Otra de las cosas que Marco Aurelio repita en muchas de sus meditaciones
+es la idea de que la única responsabilidad de cualquier ser humanos
+es desarrollar las virtudes que le permiten vivir bien y contribuir a
+la sociedas. Esto me parece una buena idea pensando egoístamente ya
+que el principal beneficiado de desarrollar esas virtudes casi siempre
+es uno mismo.
+
+Las virtudes que de las que más habla con la justicia, la templanza, el
+valor y la sabiduría. Sobre esta última hablaremos más en el siguiente
+subtítulo, pero aquí me gustaría atender a una crítica que he escuchado sobre la filosofía estoica: que esta forma de pensamiento es demasiado
+"buena" y muy "cristiana".
