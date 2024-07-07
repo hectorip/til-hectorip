@@ -39,10 +39,12 @@ subtítulo, pero aquí me gustaría atender a una crítica que he escuchado
 sobre la filosofía estoica: que esta forma de pensamiento es demasiado
 "buena" y muy "cristiana".
 
-Aunque entiendo lo que quieren decir y creo que estoy de acuerdo porque
-por lo menos en la superficie parecen muy compatibles, creo que el fundamento
+Entiendo lo que quieren decir y estoy de acuerdo porque por lo menos
+en la superficie parecen muy compatibles, pero creo que el fundamento
 no puede ser más diferente. En el cristianismo la virtud es promovida
 para imitar a Dios y para ganar la salvación, en muy pocos lugares se habla
 de que sea algo CONVENIENTE. En cambio, en el estoicismo, o por lo menos
 en este escrito, la virtud es promovida porque es la mejor forma de vivir
 y porque es lo que le conviene al individuo y a la sociedad.
+
+
