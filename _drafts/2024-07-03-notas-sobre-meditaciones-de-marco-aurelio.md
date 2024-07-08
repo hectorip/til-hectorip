@@ -19,10 +19,21 @@ las notas que Marco Aurelio hizo.
 
 ## Sobre la imposibilidad de cambiar las cosas
 
-En muchos de los pasajes, se revela la idea de que las cosas son como tienen
-que ser y no queda de otra que aceptarlas. Creo que esta es la idea que más
-se relaciona con el estoicismo y también creo que es la idea que se más
+En muchos de los pasajes se revela la idea de que las cosas son como tienen
+que ser y no queda de otra que aceptarlas. Esta es la idea que más
+se relaciona con el estoicismo y también la que se más
 se repiten en Meditaciones.
+
+Aceptar esto te lleva a una serie de conclusiones que me parecen bastante útiles
+para mejorar tu vida:
+
+- No vale la pena enojarse o estresarse por lo que de todos modos va a suceder.
+- La muerte es algo inevitable y no vale la pena temerle.
+- Las personas, incluso las malas, no están dentro de nuestro campo de acción
+y no vale la pena enojarse por ellas.
+
+Aplicar esto sin duda puede mejorar cualquier vida, por estar más tranquilo y
+con menos estrés.
 
 ## Sobre la virtud
 
@@ -46,5 +57,3 @@ para imitar a Dios y para ganar la salvación, en muy pocos lugares se habla
 de que sea algo CONVENIENTE. En cambio, en el estoicismo, o por lo menos
 en este escrito, la virtud es promovida porque es la mejor forma de vivir
 y porque es lo que le conviene al individuo y a la sociedad.
-
-
