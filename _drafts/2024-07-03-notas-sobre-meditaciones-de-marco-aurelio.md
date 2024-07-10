@@ -2,7 +2,7 @@
 title: "Notas sobre Meditaciones de Marco Aurelio"
 date: 2024-07-03
 author: Héctor Patricio
-tags:
+tags: filosofía libros estoicismo
 comments: true
 excerpt: "Algunas ideas importantes subyacentes en el clásico libro \"Meditacones\" de Marco Aurelio."
 header:
@@ -32,8 +32,8 @@ para mejorar tu vida:
 - Las personas, incluso las malas, no están dentro de nuestro campo de acción
 y no vale la pena enojarse por ellas.
 
-Aplicar esto sin duda puede mejorar cualquier vida, por estar más tranquilo y
-con menos estrés.
+La aceptación de las cosas que son inevitables o imposibles de cambiar sin duda
+pueden hacer que todo sea más llevadero y minimizar el sufrimiento.
 
 ## Sobre la virtud
 
@@ -57,3 +57,10 @@ para imitar a Dios y para ganar la salvación, en muy pocos lugares se habla
 de que sea algo CONVENIENTE. En cambio, en el estoicismo, o por lo menos
 en este escrito, la virtud es promovida porque es la mejor forma de vivir
 y porque es lo que le conviene al individuo y a la sociedad.
+
+## Sobre el mundo interior
+
+Una idea que siento que no había meditado lo suficiente pero que sin duda
+se repite en muchas filosfías...
+
+## Sobre la sabiduría
