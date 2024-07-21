@@ -61,6 +61,18 @@ y porque es lo que le conviene al individuo y a la sociedad.
 ## Sobre el mundo interior
 
 Una idea que siento que no había meditado lo suficiente pero que sin duda
-se repite en muchas filosfías...
+se repite en muchas filosfías es la de que nuestro mundo interior puede
+ser completamente independiente de lo que suceda en el mundo exterior.
+
+Según esta idea, siemre se puede modificar nuestra forma de pensar y
+nuestros sentimientos interiores para así actuar de la mejor manera
+sin tomar el cuenta el mundo exterior. Aunque creo que esta idea tiene
+su mérito en intentar ayudarnos a ser mejores seres humanos, no estoy
+completamente seguro de que sea 100% como ellos lo piensan.
+
+A diferencia de las épocas en las que se escribió eso, ahora sabemos
+que las condiciones físicas del cerebro influyen mucho en nuestra condición
+mental, es decir, el soporte físico de la mente es determinante para su
+estado.
 
 ## Sobre la sabiduría
