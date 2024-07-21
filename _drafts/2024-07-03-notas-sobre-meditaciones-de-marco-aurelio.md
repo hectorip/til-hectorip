@@ -75,4 +75,25 @@ que las condiciones físicas del cerebro influyen mucho en nuestra condición
 mental, es decir, el soporte físico de la mente es determinante para su
 estado.
 
+Aún así creo que sí tenemos cierto poder de elegir cómo reaccionar a
+las cosas que nos pasan y así crear un mundo diferente al exterior dentro
+de nosotros.
+
 ## Sobre la sabiduría
+Otra cosa que se resalta mucho en el libro es la imoprtancia de desarrollar
+la capacidad de entender las cosas y de examinarlas hasta sus fines
+últimos, para poder actuar de la mejor manera en cada situación dada.
+
+Me gusta mucho este consejo porque lo siento fresco, bastante en contraposición
+a la mayoría de cosas que escuchamos hoy.
+
+## Conclusión
+
+La única queja que tengo contra las traducciones de "Mediciones" es que
+pueden tener un lenguaje un poco anticuado y denso, al que cuesta entenderle
+al principio. Algunas de las oraciones son muy difíciles de entender
+pero creo que con esfuerzo se le puede sacar mucho provecho a este libro. Con
+respecto al libro mismo, lo siento un poco repetitivo, como que explica las miesmas
+ideas vez tras vez de diferentes formas, pero esto sirve para inculcarlas mejor.
+
+Es un libro que recomendaría a cualquier persona.
