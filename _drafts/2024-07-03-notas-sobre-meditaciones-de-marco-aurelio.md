@@ -80,12 +80,15 @@ las cosas que nos pasan y así crear un mundo diferente al exterior dentro
 de nosotros.
 
 ## Sobre la sabiduría
+
 Otra cosa que se resalta mucho en el libro es la imoprtancia de desarrollar
 la capacidad de entender las cosas y de examinarlas hasta sus fines
 últimos, para poder actuar de la mejor manera en cada situación dada.
 
 Me gusta mucho este consejo porque lo siento fresco, bastante en contraposición
 a la mayoría de cosas que escuchamos hoy.
+
+## Sobrr la dulzura y la personalidad apacible
 
 ## Conclusión
 
