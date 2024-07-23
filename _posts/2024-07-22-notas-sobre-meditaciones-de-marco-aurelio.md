@@ -1,6 +1,6 @@
 ---
 title: "Notas sobre Meditaciones de Marco Aurelio"
-date: 2024-07-03
+date: 2024-07-22
 author: Héctor Patricio
 tags: filosofía libros estoicismo
 comments: true
@@ -89,6 +89,19 @@ Me gusta mucho este consejo porque lo siento fresco, bastante en contraposición
 a la mayoría de cosas que escuchamos hoy.
 
 ## Sobrr la dulzura y la personalidad apacible
+
+
+Una cosa que escucho mencionada pocas veces sobre los estoicos es la necesidad
+de tratar bien a las personas. Para hacer esto, Marco Aurelio menciona
+repetidamente que se necesita tener una personalidad dulce y apacible.
+
+Es cierto que el carácter apacible es algo que se relaciona más con los estoicos,
+incluso se podría pensar que es un sinónimo, pero siento que cuando se 
+piensa en alguien estoico es más del lado apacible como un iceberg que como
+alguien con una personalidad dulce y agradable.
+
+Esta personalidad dulce sin duda tiene ventajas prácticas y es algo que me
+gustaría desarrollar.
 
 ## Conclusión
 
