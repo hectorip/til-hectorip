@@ -64,7 +64,7 @@ Una idea que siento que no había meditado lo suficiente pero que sin duda
 se repite en muchas filosfías es la de que nuestro mundo interior puede
 ser completamente independiente de lo que suceda en el mundo exterior.
 
-Según esta idea, siemre se puede modificar nuestra forma de pensar y
+Según esta idea, siempre se puede modificar nuestra forma de pensar y
 nuestros sentimientos interiores para así actuar de la mejor manera
 sin tomar el cuenta el mundo exterior. Aunque creo que esta idea tiene
 su mérito en intentar ayudarnos a ser mejores seres humanos, no estoy
@@ -86,17 +86,17 @@ la capacidad de entender las cosas y de examinarlas hasta sus fines
 últimos, para poder actuar de la mejor manera en cada situación dada.
 
 Me gusta mucho este consejo porque lo siento fresco, bastante en contraposición
-a la mayoría de cosas que escuchamos hoy.
+a la mayoría de cosas que escuchamos hoy, en las que no se da mucha importancia
+al conocimiento sino más a la acción, a veces sin pensar.
 
-## Sobrr la dulzura y la personalidad apacible
-
+## Sobre la dulzura y la personalidad apacible
 
 Una cosa que escucho mencionada pocas veces sobre los estoicos es la necesidad
 de tratar bien a las personas. Para hacer esto, Marco Aurelio menciona
 repetidamente que se necesita tener una personalidad dulce y apacible.
 
 Es cierto que el carácter apacible es algo que se relaciona más con los estoicos,
-incluso se podría pensar que es un sinónimo, pero siento que cuando se 
+incluso se podría pensar que es un sinónimo, pero siento que cuando se
 piensa en alguien estoico es más del lado apacible como un iceberg que como
 alguien con una personalidad dulce y agradable.
 
